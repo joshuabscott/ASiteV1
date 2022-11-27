@@ -1415,6 +1415,7 @@ p.bio-text {
 .portfolio-menu {
   background: #FE805a;
   padding: 60px 60px;
+  height: 500px;
 }
 .portfolio-menu h2 {
   font-size: 72px;
@@ -1422,7 +1423,7 @@ p.bio-text {
   text-transform: capitalize;
   font-weight: 700;
   margin-bottom: 18px;
-  text-align: left;
+  text-align: center;
 }
 .np {
   padding: 0;
